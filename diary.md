@@ -10,3 +10,5 @@ Was pretty good, just started.
 
 Well I totally forgot that I have not put any work to this project today. I feel a bit forced to get it going as goal is not really realistic for everyday use, but it
 will change I believe. Forcing commits seems like unhealthy habbit, however it is all for greater goal.
+
+Am I loosing it already?
