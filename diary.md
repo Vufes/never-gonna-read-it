@@ -12,3 +12,7 @@ Well I totally forgot that I have not put any work to this project today. I feel
 will change I believe. Forcing commits seems like unhealthy habbit, however it is all for greater goal.
 
 Am I loosing it already?
+
+## Day 2
+
+Today is a good day. I have motivation and ideas to create stuff. Problem is still the number of commits
